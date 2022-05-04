@@ -1,7 +1,8 @@
 programa
-{/*4. Crie um programa que receba valores do usuário para preencher uma matriz 3X3, e
+{
+/*4. Crie um programa que receba valores do usuário para preencher uma matriz 3X3, e
 em seguida, exiba a soma dos valores dela e a soma dos valores da primeira
-diagonal, ou seja, diagonal principa
+diagonal, ou seja, diagonal principal
 */
 	
 	funcao inicio()
@@ -17,7 +18,8 @@ diagonal, ou seja, diagonal principa
 		    }	
 		} escreva("\nSoma total = ",soma)
 		escreva("\nSoma da diagonal = ",m[0][0] + m[1][1] + m[2][2], "\n\n")
-	} 
+	}
+ 
 }
 /* $$$ Portugol Studio $$$ 
  * 
